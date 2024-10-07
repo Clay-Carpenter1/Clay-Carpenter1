@@ -8,6 +8,8 @@
 - ⚡ Fun fact: I love to bring new ideas to the technology world, especially with new tech such as AI. 
 - ![Python](https://img.shields.io/badge/python-3.9-blue)
 - ![Ruby](https://img.shields.io/badge/ruby-2.7-red)
+- ![JavaScript](https://img.shields.io/badge/javascript-ES6-yellow)
+- ![Java](https://img.shields.io/badge/java)
 - ![Kotlin](https://img.shields.io/badge/kotlin-1.5-green)
 - ![HTML](https://img.shields.io/badge/HTML5-red)
 - ![CSS](https://img.shields.io/badge/CSS3-blue)
