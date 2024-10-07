@@ -6,3 +6,4 @@
 - 😄 Pronouns: he/him
 - ✏️ Education: I am currently an undergraduate at the University of Central Arkansas
 - ⚡ Fun fact: I love to bring new ideas to the technology world, especially with new tech such as AI. 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=myusername&theme=tokyonight)
