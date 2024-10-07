@@ -6,4 +6,6 @@
 - 😄 Pronouns: he/him
 - ✏️ Education: I am currently an undergraduate at the University of Central Arkansas
 - ⚡ Fun fact: I love to bring new ideas to the technology world, especially with new tech such as AI. 
-
+![Python](https://img.shields.io/badge/python-3.9-blue)
+![JavaScript](https://img.shields.io/badge/javascript-ES6-yellow)
+![Java](https://img.shields.io/badge/java-11-red)
