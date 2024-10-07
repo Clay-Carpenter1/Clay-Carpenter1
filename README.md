@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Clay-Carpenter1
+- 👋 Hi, I’m Clay Carpenter
 - 👀 I’m interested in web devlopment, data science, and open-source projects.
 - 🌱 I’m currently learning ReactJS, machine learning/AI concepts, and mobile app development.
 - 💞️ I'm a passionate full stack developer.
