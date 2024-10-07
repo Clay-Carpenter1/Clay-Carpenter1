@@ -9,7 +9,7 @@
 - ![Python](https://img.shields.io/badge/python-3.9-blue)
 - ![Ruby](https://img.shields.io/badge/ruby-2.7-red)
 - ![JavaScript](https://img.shields.io/badge/javascript-ES6-yellow)
-- ![Java](https://img.shields.io/badge/java)
+- ![Java](https://img.shields.io/badge/java-11-red)
 - ![Kotlin](https://img.shields.io/badge/kotlin-1.5-green)
 - ![HTML](https://img.shields.io/badge/HTML5-red)
 - ![CSS](https://img.shields.io/badge/CSS3-blue)
