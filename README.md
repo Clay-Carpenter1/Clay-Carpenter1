@@ -87,20 +87,20 @@
 
 <br/>
 
-## 🎯 Current Focus
+## 🎯 Current Focus  
 
 <div align="center">
 
 ```javascript
 const clay = {
-  learning: ["ReactJS", "Machine Learning", "Mobile Development"],
-  interests: ["Web Development", "Data Science", "Open Source"],
-  currentProject: "Kerr Detailing - Full Stack Car Detailing Platform",
-  consulting: "Helping small businesses grow with technology",
-  goals: ["Master AI/ML", "Build Innovative Apps", "Empower Local Businesses"],
-  funFact: "Love bringing new ideas to tech, especially with AI! 🤖"
+  learning:      ["ReactJS", "Machine Learning", "Mobile Development"],
+  interests:     ["Web Development", "Data Science", "Open Source"],
+  currentProject:"Kerr Detailing - Full Stack Car Detailing Platform",
+  consulting:    "Helping small businesses grow with technology",
+  goals:         ["Master AI/ML", "Build Innovative Apps", "Empower Local Businesses"],
+  funFact:       "Love bringing new ideas to tech, especially with AI! 🤖"
 };
-```
+
 
 </div>
 
