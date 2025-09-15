@@ -63,6 +63,17 @@ const clay = {
 - 🤝 Worked closely with a cross-functional team to refine features based on user and leadership feedback  
 - 📢 Communicated progress and updates to technical and business stakeholders to ensure alignment with organizational goals  
 
+## 🏪 Entrepreneurial Impact
+
+### 💼 Small Business Technology Consultant
+**Freelance** | *Ongoing*
+- 🌐 **Help small businesses** launch their digital presence with custom websites
+- 📈 **Drive revenue growth** through modern web solutions and e-commerce integration
+- 😊 **Enhance customer satisfaction** by implementing user-friendly booking and payment systems
+- 🚀 **Bridge the technology gap** for local businesses to compete in the digital marketplace
+- 💡 **Passionate about** using technology to empower small business owners and entrepreneurs
+
+*"I believe technology should be accessible to every business, regardless of size. My mission is to help small businesses thrive in the digital age."*
 ## 🤝 Let's Connect!
 
 <p align="center">
