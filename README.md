@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;AI+%26+Data+Science+Enthusiast;Small+Business+Technology+Consultant;Always+Learning+New+Tech" alt="Typing SVG" />
 </div>
 
-<br/>
+---
 
 ## 🚀 About Me
 
@@ -18,7 +18,7 @@
 
 </div>
 
-<br/>
+---
 
 ## 🛠️ Tech Stack
 
@@ -48,48 +48,36 @@
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </div>
 
-<br/>
+---
 
 ## 💼 Experience
-
-<div align="center">
 
 ### 🏢 Software Development Intern  
 **Quanta Services** | *Houston, Texas*  
 *May 2025 – August 2025*  
-🔧 Contributed to the development and scaling of enterprise-level mobile applications  
-🤝 Worked closely with a cross-functional team to refine features based on user and leadership feedback  
-📢 Communicated progress and updates to technical and business stakeholders to ensure alignment with organizational goals  
+- 🔧 Contributed to the development and scaling of enterprise-level mobile applications  
+- 🤝 Worked closely with a cross-functional team to refine features based on user and leadership feedback  
+- 📢 Communicated progress and updates to technical and business stakeholders to ensure alignment with organizational goals  
 
-
-</div>
-
-<br/>
+---
 
 ## 🏪 Entrepreneurial Impact
 
-<div align="center">
-
-### 💼 Small Business Technology Consultant
-**Freelance** | *Ongoing*
-
-🌐 **Help small businesses** launch their digital presence with custom websites  
-📈 **Drive revenue growth** through modern web solutions and e-commerce integration  
-😊 **Enhance customer satisfaction** by implementing user-friendly booking and payment systems  
-🚀 **Bridge the technology gap** for local businesses to compete in the digital marketplace  
-💡 **Passionate about** using technology to empower small business owners and entrepreneurs
-
-</div>
+### 💼 Small Business Technology Consultant  
+**Freelance** | *Ongoing*  
+- 🌐 Helped small businesses launch their digital presence with custom websites  
+- 📈 Drove revenue growth through modern web solutions and e-commerce integration  
+- 😊 Enhanced customer satisfaction by implementing user-friendly booking and payment systems  
+- 🚀 Bridged the technology gap for local businesses to compete in the digital marketplace  
+- 💡 Passionate about using technology to empower small business owners and entrepreneurs  
 
 <div align="center">
   <i>"I believe technology should be accessible to every business, regardless of size.<br/>My mission is to help small businesses thrive in the digital age."</i>
 </div>
 
-<br/>
+---
 
 ## 🎯 Current Focus  
-
-<div align="center">
 
 ```javascript
 const clay = {
@@ -101,8 +89,6 @@ const clay = {
   funFact:       "Love bringing new ideas to tech, especially with AI! 🤖"
 };
 
-
-</div>
 
 <br/>
 
