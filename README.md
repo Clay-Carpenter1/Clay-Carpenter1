@@ -44,32 +44,57 @@
 <div align="center">
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </div>
 
 ---
 
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Clay-Carpenter1&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Clay's GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Clay-Carpenter1&theme=radical&hide_border=true&layout=compact" alt="Top Languages" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Clay-Carpenter1&theme=radical&hide_border=true" alt="Clay's GitHub Streak" />
+</div>
+
+---
+
 ## 💼 Experience
 
-### 🏢 Software Development Intern  
+<div align="center">
+
+### 🏢 Software Development Intern
 **Quanta Services** | *Houston, Texas*  
-*May 2025 – August 2025*  
-- 🔧 Contributed to the development and scaling of enterprise-level mobile applications  
-- 🤝 Worked closely with a cross-functional team to refine features based on user and leadership feedback  
-- 📢 Communicated progress and updates to technical and business stakeholders to ensure alignment with organizational goals  
+*May 2025 – August 2025*
+
+🔧 Contributed to the development and scaling of enterprise-level mobile applications  
+🤝 Worked closely with a cross-functional team to refine features based on user and leadership feedback  
+📢 Communicated progress and updates to technical and business stakeholders to ensure alignment with organizational goals
+
+</div>
 
 ---
 
 ## 🏪 Entrepreneurial Impact
 
-### 💼 Small Business Technology Consultant  
-**Freelance** | *Ongoing*  
-- 🌐 Helped small businesses launch their digital presence with custom websites  
-- 📈 Drove revenue growth through modern web solutions and e-commerce integration  
-- 😊 Enhanced customer satisfaction by implementing user-friendly booking and payment systems  
-- 🚀 Bridged the technology gap for local businesses to compete in the digital marketplace  
-- 💡 Passionate about using technology to empower small business owners and entrepreneurs  
+<div align="center">
+
+### 💼 Small Business Technology Consultant
+**Freelance** | *Ongoing*
+
+🌐 Help small businesses launch their digital presence with custom websites  
+📈 Drive revenue growth through modern web solutions and e-commerce integration  
+😊 Enhance customer satisfaction by implementing user-friendly booking and payment systems  
+🚀 Bridge the technology gap for local businesses to compete in the digital marketplace  
+💡 Passionate about using technology to empower small business owners and entrepreneurs
+
+</div>
 
 <div align="center">
   <i>"I believe technology should be accessible to every business, regardless of size.<br/>My mission is to help small businesses thrive in the digital age."</i>
@@ -77,18 +102,24 @@
 
 ---
 
-## 🎯 Current Focus  
+## 🎯 Current Focus
+
+<div align="center">
 
 ```javascript
 const clay = {
-  learning:      ["ReactJS", "Machine Learning", "Mobile Development"],
-  interests:     ["Web Development", "Data Science", "Open Source"],
-  currentProject:"Kerr Detailing - Full Stack Car Detailing Platform",
-  consulting:    "Helping small businesses grow with technology",
-  goals:         ["Master AI/ML", "Build Innovative Apps", "Empower Local Businesses"],
-  funFact:       "Love bringing new ideas to tech, especially with AI! 🤖"
+  learning:       ["ReactJS", "Machine Learning", "Mobile Development"],
+  interests:      ["Web Development", "Data Science", "Open Source"],
+  currentProject: "Kerr Detailing - Full Stack Car Detailing Platform",
+  consulting:     "Helping small businesses grow with technology",
+  goals:          ["Master AI/ML", "Build Innovative Apps", "Empower Local Businesses"],
+  funFact:        "Love bringing new ideas to tech, especially with AI! 🤖"
 };
+```
 
+</div>
+
+---
 
 ## 🌟 Featured Projects
 
@@ -107,7 +138,7 @@ const clay = {
 
 </div>
 
-<br/>
+---
 
 ## 🤝 Let's Connect!
 
@@ -120,7 +151,7 @@ const clay = {
   </a>
 </div>
 
-<br/>
+---
 
 ## 💡 Open to Collaboration
 
@@ -137,8 +168,6 @@ const clay = {
 *Feel free to reach out if you want to collaborate on something awesome!* 🚀
 
 </div>
-
-<br/>
 
 ---
 
