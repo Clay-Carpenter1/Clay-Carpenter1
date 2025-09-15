@@ -52,19 +52,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Clay-Carpenter1&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Clay's GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Clay-Carpenter1&theme=radical&hide_border=true&layout=compact" alt="Top Languages" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Clay-Carpenter1&theme=radical&hide_border=true" alt="Clay's GitHub Streak" />
-</div>
-
----
-
 ## 💼 Experience
 
 <div align="center">
@@ -102,44 +89,6 @@
 
 ---
 
-## 🎯 Current Focus
-
-<div align="center">
-
-```javascript
-const clay = {
-  learning:       ["ReactJS", "Machine Learning", "Mobile Development"],
-  interests:      ["Web Development", "Data Science", "Open Source"],
-  currentProject: "Kerr Detailing - Full Stack Car Detailing Platform",
-  consulting:     "Helping small businesses grow with technology",
-  goals:          ["Master AI/ML", "Build Innovative Apps", "Empower Local Businesses"],
-  funFact:        "Love bringing new ideas to tech, especially with AI! 🤖"
-};
-```
-
-</div>
-
----
-
-## 🌟 Featured Projects
-
-<div align="center">
-
-### 🚗 [Kerr Detailing Platform](https://github.com/Clay-Carpenter1/Kerr-Detailing)
-*A comprehensive car detailing business platform*
-
-✨ 4-step booking system with service customization  
-💳 Stripe payment integration with secure processing  
-📱 SMS reminder system for appointment notifications  
-🎨 Modern React frontend with Supabase backend  
-📊 Real-time availability and booking management
-
-**Tech Stack:** React • Tailwind CSS • Supabase • Stripe • Twilio
-
-</div>
-
----
-
 ## 🤝 Let's Connect!
 
 <div align="center">
@@ -149,24 +98,6 @@ const clay = {
   <a href="https://github.com/Clay-Carpenter1">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-</div>
-
----
-
-## 💡 Open to Collaboration
-
-<div align="center">
-
-**I'm always excited to work on:**
-
-🌐 **Web Development** projects  
-🤖 **AI/ML** applications  
-📱 **Mobile App** development  
-🔗 **Open Source** contributions  
-🏪 **Small Business** technology solutions
-
-*Feel free to reach out if you want to collaborate on something awesome!* 🚀
-
 </div>
 
 ---
