@@ -6,7 +6,7 @@
 
 ## 🚀 About Me
 
-🎓 **Undergraduate** at the University of Central Arkansas  
+🎓 **Graduate** at the University of Central Arkansas  
 💻 **Passionate Full Stack Developer** with a love for innovation  
 🤖 **AI & Machine Learning Enthusiast** exploring the future of technology  
 🌱 **Currently Learning**: ReactJS, Machine Learning/AI, Mobile App Development  
