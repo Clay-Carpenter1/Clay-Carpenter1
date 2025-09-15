@@ -50,30 +50,17 @@
 
 <br/>
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Clay-Carpenter1&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Clay's GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Clay-Carpenter1&theme=radical&hide_border=true&layout=compact" alt="Top Languages" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Clay-Carpenter1&theme=radical&hide_border=true" alt="Clay's GitHub Streak" />
-</div>
-
-<br/>
-
 ## 💼 Experience
 
 <div align="center">
 
-### 🏢 Software Development Intern
-**[Company Name]** | *[Duration - e.g., Summer 2024]*
+### 🏢 Software Development Intern  
+**Quanta Services** | *Houston, Texas*  
+*May 2025 – August 2025*  
+🔧 Contributed to the development and scaling of enterprise-level mobile applications  
+🤝 Worked closely with a cross-functional team to refine features based on user and leadership feedback  
+📢 Communicated progress and updates to technical and business stakeholders to ensure alignment with organizational goals  
 
-🔧 Developed and maintained web applications using [technologies used]  
-📊 Collaborated with cross-functional teams on [specific projects/achievements]  
-🚀 Implemented [specific features or improvements you worked on]  
-📈 Gained hands-on experience with [specific tools, frameworks, or methodologies]
 
 </div>
 
