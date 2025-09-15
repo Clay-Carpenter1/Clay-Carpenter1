@@ -56,6 +56,13 @@ const clay = {
 };
 ```
 
+### 🏢 Software Development Intern  
+**Quanta Services** | *Houston, Texas*  
+*May 2025 – August 2025*  
+- 📱 Scaled Irby’s 500-user iOS safety app into a Quanta-branded platform for 40,000+ employees across 200+ companies  
+- 🤝 Collaborated with a team of six to redesign and tailor features based on feedback from field users and operational leaders  
+- 📢 Provided weekly updates to technical, business, and safety stakeholders to ensure alignment with enterprise-wide needs  
+
 ## 🤝 Let's Connect!
 
 <p align="center">
