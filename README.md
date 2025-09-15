@@ -40,20 +40,6 @@
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </p>
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Clay-Carpenter1&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Clay's GitHub Stats" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Clay-Carpenter1&theme=radical&hide_border=true" alt="Clay's GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Clay-Carpenter1&theme=radical&hide_border=true&layout=compact" alt="Top Languages" />
-</div>
-
 ## 🎯 Current Focus
 
 ```javascript
@@ -66,21 +52,10 @@ const clay = {
 };
 ```
 
-## 🌟 Featured Projects
-
-### 🚗 [Kerr Detailing Platform](https://github.com/Clay-Carpenter1/Kerr-Detailing)
-A comprehensive car detailing business platform with:
-- 4-step booking system with service customization
-- Stripe payment integration
-- SMS reminder system
-- Modern React frontend with Supabase backend
-
-*Tech Stack: React, Tailwind CSS, Supabase, Stripe, Twilio*
-
 ## 🤝 Let's Connect!
 
 <p align="center">
-  <a href="mailto:candocarp@gmail.com">
+  <a href="mailto:clay.carpenter003@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="https://github.com/Clay-Carpenter1">
@@ -88,22 +63,3 @@ A comprehensive car detailing business platform with:
   </a>
 </p>
 
-## 💡 Open to Collaboration
-
-I'm always excited to work on:
-- 🌐 **Web Development** projects
-- 🤖 **AI/ML** applications
-- 📱 **Mobile App** development
-- 🔗 **Open Source** contributions
-
-Feel free to reach out if you want to collaborate on something awesome! 🚀
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Clay-Carpenter1&color=blue&style=flat-square&label=Profile+Views" alt="Profile Views"/>
-</div>
-
-<div align="center">
-  <i>⭐ From <a href="https://github.com/Clay-Carpenter1">Clay-Carpenter1</a></i>
-</div>
