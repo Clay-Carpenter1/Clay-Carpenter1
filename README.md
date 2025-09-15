@@ -90,8 +90,6 @@ const clay = {
 };
 
 
-<br/>
-
 ## 🌟 Featured Projects
 
 <div align="center">
