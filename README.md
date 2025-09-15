@@ -102,9 +102,6 @@
 
 ---
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Clay-Carpenter1&color=blue&style=flat-square&label=Profile+Views" alt="Profile Views"/>
-</div>
 
 <div align="center">
   <i>⭐ From <a href="https://github.com/Clay-Carpenter1">Clay-Carpenter1</a></i>
